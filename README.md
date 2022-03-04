@@ -7,8 +7,8 @@ Solution/Approach
 - Data Preprocessing
 - Feature Selection
 - Model Predictions using:
- -- Logistic Regression
- -- K-Nearest Neighbors (KNN)
- -- Support Vecotr Machine (SVM)
- -- Decision Trees
- -- Naive Bayes
+-- Logistic Regression
+-- K-Nearest Neighbors (KNN)
+-- Support Vecotr Machine (SVM)
+-- Decision Trees
+-- Naive Bayes
